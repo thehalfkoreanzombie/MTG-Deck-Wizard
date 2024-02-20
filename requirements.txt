@@ -1,0 +1,12 @@
+pandas
+jupyterlab
+pyyaml
+pyarrow
+fsspec
+mtgsdk
+google-cloud-bigquery
+google-cloud-storage
+pyarrow
+db-dtypes
+shortuuid
+tabulate
