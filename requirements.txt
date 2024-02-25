@@ -10,3 +10,4 @@ pyarrow
 db-dtypes
 shortuuid
 tabulate
+functions-framework==3.*
